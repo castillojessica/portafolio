@@ -1,0 +1,100 @@
+.perfil{
+    padding: .5em;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+}
+
+.perfil-title{
+    color: white;
+    font-size: 30px;
+    background-color: #DA0048;
+      
+}
+
+.perfil-img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.section{
+    padding: 1em 4em 1em 4em;
+}
+
+h2{
+    padding: .5em;
+    font-size: 30px;
+    text-align: left;
+    color: #DA0048;
+}
+
+.padre{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.hijo1{
+    margin-left: 10px;
+}
+.hijo2{
+    margin-right: 10px;
+}
+
+.article{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.article img{
+    height: 1%;
+    width: 30%;
+    margin-top: 200px;
+    margin-left: 10px;
+    border-radius: 10px;
+    object-fit: cover;
+
+}
+
+.article .info-article{
+    width: 70%;
+    padding: 2em;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.article .info-article h3{
+    font-size: 50px;
+}
+
+.article .info-article p{
+    text-align: justify;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 2;
+}   
+
+.article .info-article a{
+    padding: .5em;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    color: white;
+    background: linear-gradient(to right, #DA0048, orange);
+    font-weight: bold;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    letter-spacing: 2px;
+    background: black;
+    height: 300px;
+}
