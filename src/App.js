@@ -11,9 +11,9 @@ function App() {
       <header className="App-header">
         <Navbar />
         <Header/>
-        <Biefcase/>
-        <Contact/>
         <About/>
+        <Biefcase/> 
+        <Contact/>        
         <Footer />
       </header>
     </div>

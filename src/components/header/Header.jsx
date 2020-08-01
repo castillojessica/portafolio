@@ -9,7 +9,7 @@ function Header() {
                 <div className="perfil">
                 <img className="perfil-img" src="https://i.ibb.co/fHX70cm/yo.jpg"/>
                     <p className="perfil-title">
-                        " No por miedo a errar vas a dejar de jugar " 
+                        " Creo en la capacidad de cada ser humano para  la mejora en equipo " 
                     </p>
                 </div>
         </div>

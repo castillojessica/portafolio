@@ -1,22 +1,25 @@
 let portafolio=[
     {   id:1,
-        nombreProyecto:"Data Lovers",
-        texto:"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.",
-        imagen:'https://www.maxcf.es/wp-content/uploads/2017/05/simplemag.jpg',
-        link:"https://google.com"
+        nombreProyecto:"Cifrado Cesar",
+        texto:" Esta pagina web nos ayuda a encriptar y cifrar salarios de los trabajadores de una empresa.",
+        imagen:"https://i.ibb.co/MgWb8DJ/Captura-de-pantalla-2020-07-30-a-la-s-11-44-27.png" ,
+        link:"https://elastic-bassi-5d3e40.netlify.app/"
     },
     {   id:2,
-        nombreProyecto:"cifrado",
-        texto:"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.",
-        imagen:'https://www.maxcf.es/wp-content/uploads/2017/05/simplemag.jpg',
-        link:"https://google.com"
+        nombreProyecto:"Data Lovers",
+        texto:"Pagina realizada con la API de Rick and Morty en donde se encuentra informaciòn de todos los personasjes de la serie. ",
+        imagen:"https://i.ibb.co/fC2W5Ys/Captura-de-pantalla-2020-07-30-a-la-s-12-28-11.png",
+        link:"https://focused-heyrovsky-93b260.netlify.app/"
     },
+    
     {
         id:3,
-        nombreProyecto:"Red social",
-        texto:"Una red socual",
-        imagen:'https://www.maxcf.es/wp-content/uploads/2017/05/simplemag.jpg',
+        nombreProyecto:"Burger Queen",
+        texto:"Pagina que ayuda al restaurante a tener un control de las comandas en el àrea de cocina.",
+        imagen:"https://i.ibb.co/v4zQ0Pk/Captura-de-pantalla-2020-07-30-a-la-s-13-54-52.png",
         link:"https://google.com"
     }
+
+
 ]
-export default portafolio;
+export default portafolio;  
