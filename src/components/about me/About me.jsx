@@ -6,7 +6,7 @@ function About() {
             <h2>Acerca de mi</h2>
             <center><p className="yo">
             Empática, con resultados satisfactorios en el trabajo en equipo.
-            Apasionada de la programacion,diseño de interfaces, administración, investigación, aprendizaje y
+            Apasionada de la programaciòn,diseño de interfaces, administración, investigación, aprendizaje y
             desarrollo de nuevas tecnologías. 
             </p></center>
         
