@@ -101,12 +101,10 @@ align-items: center;
 flex-wrap: wrap;
 left: 10%;
 }
-
-
 #iconos{
   width: 125px; height: 125px;
+  color:white;
 }
-
 .herramientas{
   text-align: center;
   color:black;
@@ -152,6 +150,7 @@ left: 10%;
   font-size: 30px;
   
 }
+
 
                 
 
