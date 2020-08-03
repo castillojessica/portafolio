@@ -98,8 +98,10 @@ align-items: center;
 .skills{
   width: 80%;
   display: flex;
+
 flex-wrap: wrap;
 left: 10%;
+color: white;
 }
 #iconos{
   width: 125px; height: 125px;
@@ -107,14 +109,14 @@ left: 10%;
 }
 .herramientas{
   text-align: center;
-  color:black;
+  color:white;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 30px;
   
 }
 .skills{
   
-  color:black;
+  color:white;
   text-align: left;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 30px;
@@ -129,14 +131,15 @@ left: 10%;
   
 }
 .formacion{
-  color:black;
+  color:white;
   font-family: 'Alegreya Sans', sans-serif;
   font-weight: 900;
   font-size: 30px;
   text-align: right;
+  
 }
 .formacionp{
-  color:black;
+  color:white;
   text-align: right;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 30px;

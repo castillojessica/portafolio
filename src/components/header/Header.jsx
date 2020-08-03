@@ -4,7 +4,7 @@ import back from '../assets/img/back.jpg'
 
 function Header() {
     return (
-        <div className="header">         
+        <div id="inicio"className="header">         
  <img className="image" src={back}/>                   
                 <div className="perfil">
                 <img className="perfil-img" src="https://i.ibb.co/fHX70cm/yo.jpg"/>

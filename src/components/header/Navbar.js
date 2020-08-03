@@ -15,10 +15,10 @@ function Navbar() {
     <a className="nombre">JESSICA CASTILLO</a>
     </div>
     <div className="hijo2">
-    <a href="inicio"> Inicio l</a>
-    <a href="acerca"> Acerca de mi  l  </a>
-    <a href="portafolio"> Portafolio l</a> 
-    <a href="contacto"> Contacto </a>
+    <a href="#inicio"> Inicio l</a>
+    <a href="#acerca"> Acerca de mi  l  </a>
+    <a href="#portafolio"> Portafolio l</a> 
+    <a href="#contacto"> Contacto </a>
     </div>
     </div>
 </nav>

@@ -4,7 +4,7 @@ import Article from './Article'
 function Briefcase() {
     return (
         <div className='secction'>
-            <h2>Portafolio</h2>  
+            <h2 id="portafolio">Portafolio</h2>  
                 {Portafolio.map(articulo=> <Article
                 key={articulo.id}
                 articulo={articulo}

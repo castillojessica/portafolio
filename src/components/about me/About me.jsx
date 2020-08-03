@@ -3,7 +3,7 @@ import React from 'react';
 function About() {
     return (
         <div className='secction'>
-            <h2>Acerca de mi</h2>
+            <h2 id="acerca">Acerca de mi</h2>
             <center><p className="yo">
             Empática, con resultados satisfactorios en el trabajo en equipo.
             Apasionada de la programaciòn,diseño de interfaces, administración, investigación, aprendizaje y
