@@ -17,7 +17,7 @@ let portafolio=[
         nombreProyecto:"Burger Queen",
         texto:"Pagina que ayuda al restaurante a tener un control de las comandas en el àrea de cocina.",
         imagen:"https://i.ibb.co/v4zQ0Pk/Captura-de-pantalla-2020-07-30-a-la-s-13-54-52.png",
-        link:"https://google.com"
+        link:"https://jovial-bohr-3203c0.netlify.app/"
     }
 
 

@@ -19,6 +19,7 @@ body {
 .image{
   width: 100%;
   height: 100%;
+
   object-fit: cover;
 }
 .barra{
@@ -27,7 +28,7 @@ body {
   height: 75px;
   left: 0px;
   top: -7.21px;
-  background: #DA0048;
+  background: #F80C71;
   z-index: 1;
   } 
 
@@ -85,14 +86,14 @@ body {
 .habilidades{
   
 width: 100%;
-height: 350px;
+height: 200px;
 left: 0px;
 top: -7.21px;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-between;
 background: linear-gradient(to right, #DA0048, orange);
-align-items: center;
+
 
 }
 .skills{
@@ -104,7 +105,8 @@ left: 10%;
 color: white;
 }
 #iconos{
-  width: 125px; height: 125px;
+  margin-top: -3%;
+  font-size: 100px;
   color:white;
 }
 .herramientas{
@@ -125,14 +127,14 @@ color: white;
 }
 .palabra{
   color:black;
-  text-align: left;
-  font-family: 'Alegreya Sans', sans-serif;
-  font-size: 30px;
+  font-family: 'Quicksand', sans-serif;
+  
   
 }
+
 .formacion{
   color:white;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-weight: 900;
   font-size: 30px;
   text-align: right;
@@ -147,13 +149,52 @@ color: white;
 }
 .palabras{
   color:black;
-  text-align: right;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   
-  font-size: 30px;
   
+  
+}
+.center{
+  
+  text-align: center;
+  font-size: 18px;
+
 }
 
 
                 
+@media only screen and (max-device-width:700px){
 
+  #iconos{
+    font-size: 50px;
+    color:white;
+    
+  }
+
+  .barra{
+    position: fixed;
+    width: 100%;
+    height: 75px;
+    left: 0px;
+    top: -7.21px;
+    background: #F80C71;
+    z-index: 1;
+    } 
+
+    .center{
+  
+      text-align: center;
+      font-size: 10px;
+    
+    }
+    .menu1{
+      font-size: 5px;
+      text-align: right;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-weight: 10;
+      color: white;
+      top: 500px;
+    }
+
+  
+}
