@@ -2,13 +2,13 @@ let portafolio=[
     {   id:1,
         nombreProyecto:"Cifrado Cesar",
         texto:" Esta pagina web nos ayuda a encriptar y cifrar salarios de los trabajadores de una empresa.",
-        imagen:"https://i.ibb.co/MgWb8DJ/Captura-de-pantalla-2020-07-30-a-la-s-11-44-27.png" ,
-        link:"https://elastic-bassi-5d3e40.netlify.app/"
+        imagen:"https://i.ibb.co/CzrWRpZ/Captura-de-pantalla-2020-10-08-a-la-s-15-29-40.png" ,
+        link:"https://eager-pasteur-a8d70e.netlify.app/"
     },
     {   id:2,
         nombreProyecto:"Data Lovers",
         texto:"Pagina realizada con la API de Rick and Morty en donde se encuentra informaciòn de todos los personasjes de la serie. ",
-        imagen:"https://i.ibb.co/fC2W5Ys/Captura-de-pantalla-2020-07-30-a-la-s-12-28-11.png",
+        imagen:"https://i.ibb.co/nBLPtZ7/Captura-de-pantalla-2020-10-08-a-la-s-15-30-09.png",
         link:"https://focused-heyrovsky-93b260.netlify.app/"
     },
     
@@ -18,6 +18,20 @@ let portafolio=[
         texto:"Pagina que ayuda al restaurante a tener un control de las comandas en el àrea de cocina.",
         imagen:"https://i.ibb.co/v4zQ0Pk/Captura-de-pantalla-2020-07-30-a-la-s-13-54-52.png",
         link:"https://jovial-bohr-3203c0.netlify.app/"
+    },
+    {
+        id:4,
+        nombreProyecto:"Laaps",
+        texto:"Laaps es un emprendimiento dedicado al lavado de autos a domicilio sin utilizar agua,se realiza una single page application (SPA) desarrollada para el autolavado a domicilio.Esta construida para tres roles de colaborador,administrativo y cliente,que tienen diferentes permisos de acciones dentro de la aplicacion y puede ingresas mediante un login y llenar campos dependiendo del caso.",
+        imagen:"https://i.ibb.co/zGLpftD/Captura-de-pantalla-2020-10-13-a-la-s-14-57-49.png",
+        link:"https://laaps.netlify.app/#/"
+    },
+    {
+        id:5,
+        nombreProyecto:"BlackRock & City Banamex",
+        texto:"Esta pagina se hizo para un hackathon de LABORATORIA en donde nuestro cliente BlackRock necesitaba que la parte de educación de inversión viviera en la pagina de City Banamex.",
+        imagen:"https://i.ibb.co/hcMwgzq/Captura-de-pantalla-2020-10-13-a-la-s-15-51-00.png",
+        link:"https://blackrock-citibanamex.netlify.app/"
     }
 
 
