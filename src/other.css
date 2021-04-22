@@ -10,7 +10,7 @@
 .perfil-title{
     color: white;
     font-size: 30px;
-    background-color: #DA0048;
+    background-color: rgb(215, 134, 212);
       
 }
 
@@ -20,6 +20,7 @@
     border-radius: 50%;
 }
 .section{
+    
     padding: 1em 4em 1em 4em;
 }
 
@@ -27,7 +28,7 @@ h2{
     padding: .5em;
     font-size: 40px;
     text-align: left;
-    color: #DA0048;
+    color: rgb(215, 134, 212);
 }
 
 .padre{
@@ -40,6 +41,12 @@ h2{
 }
 .hijo2{
     margin-right: 10px;
+    margin: 0px 20px 0px 20px;
+}
+
+a{
+    text-decoration: none;
+    margin: 0px 20px 0px 20px;
 }
 
 .article{
@@ -48,11 +55,20 @@ h2{
     justify-content: space-around;
 }
 
-.article img{
+.article .normal{
     height: 1%;
     width: 30%;
     margin-top: 200px;
     margin-left: 10px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+.article .feas{
+    height: 1%;
+    width: 20%;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 120px;
     border-radius: 10px;
     object-fit: cover;
 
@@ -83,7 +99,7 @@ h2{
     font-size: 20px;
     border-radius: 10px;
     color: white;
-    background: linear-gradient(to right, #DA0048, orange);
+    background: linear-gradient(to right,   rgb(215, 134, 212), rgb(115, 196, 233));
     font-weight: bold;
 }
 
@@ -92,6 +108,7 @@ h2{
     display: flex;
     width: 100%;
     padding: 0%;
+    margin-top: 50px;
     position: absolute;
     justify-content: center;
     align-items: center;

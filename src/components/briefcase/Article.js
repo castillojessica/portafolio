@@ -3,7 +3,7 @@ import React from 'react';
 function Article({articulo}) {
     return (
         <div className="article">
-            <img src={articulo.imagen} />
+            <img src={articulo.imagen} className={articulo.classimg} />
             <div className='info-article'>
                 <h3>{articulo.nombreProyecto}</h3>
                 <p>{articulo.texto}</p>
